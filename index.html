@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <meta charset="utf-8">
 <title>Job Tree</title>
@@ -43,6 +42,7 @@ button:hover {
 
 svg {
   overflow: hidden;
+  fill:#fff;
 }
 
 html, body {
@@ -50,10 +50,10 @@ html, body {
   padding: 0;
 }
 body {
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	background-color: #ffffff;
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: auto;
 }
-path { fill: none; stroke: #666; stroke-width: .5px; }
+path { fill: none; stroke: #fff; stroke-width: .5px; }
 text {
   cursor: pointer;
   -webkit-touch-callout: none;
@@ -65,19 +65,20 @@ text {
   user-select: none;
 }
 svg:not(.hover) text:hover, .hover tspan:hover {
-  fill: #f99;
+  fill: #ff6666;
+  
 }
 #header {
-  background: #000000;
+  background: #ffffff;
   padding: 10px 0 5px;
-  border-bottom: solid #000000 1px;
+  border-bottom: solid #ffffff 1px;
   height: 30px;
 }
 .grey {
-  background: #000000;
+  background: #000;
   margin: 0px 0px;
   padding: 0;
-  border: solid #000000 1px;
+  border: solid #000 1px;
   border-left: none;
   border-right: none;
 }
@@ -95,20 +96,20 @@ svg:not(.hover) text:hover, .hover tspan:hover {
   left: 10px;
   bottom: 0;
   right: 310px;
-  background: #fff;
+  background: #000;
   }
 #text {
-	width: 300px;
-	position: absolute;
-	top: 46px;
-	bottom: 0;
-	right: 0;
-	overflow-y: auto;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+  width: 300px;
+  position: absolute;
+  top: 46px;
+  bottom: 0;
+  right: 0;
+  overflow-y: auto;
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
 #text a { text-decoration: none; color: #000000; }
-#text a.highlight { background: #ff6666; color: #000; }
-#text a:hover { text-decoration: underline; }
+#text a.highlight { background: #000000; color: #ffffff;}
+#text a:hover { text-decoration: underline; font-weight: bold; color:#ff6666;}
 #text .row { height: 20px; }
 rect {
   fill: none;
@@ -165,18 +166,18 @@ input {
 }
 
 #paste {
-	width: 793px;
-	height: 500px;
-	border: solid #ccc 3px;
+  width: 793px;
+  height: 500px;
+  border: solid #ccc 3px;
 }
 
 h2 {
-	font-weight: bolder;
-	font-size: 1.5em;
-	font-style: normal;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-variant: small-caps;
-	color: #FFFFFF;
+  font-weight: bolder;
+  font-size: 1.5em;
+  font-style: normal;
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-variant: small-caps;
+  color: #FFFFFF;
 }
 
 .copyright {
@@ -228,20 +229,22 @@ h2 {
 }
 
 .wrapper {
-	width: 800px;
-	margin: 0 auto;
-	text-align: justify;
-	background-color: #000000;
+  width: 650px;
+  margin: 0 auto;
+  text-align: justify;
+  background-color: #000;
 }
 
 #source, #keyword {
-  width: 300px;
+  width: 297px;
   margin-top: 0px;
   box-sizing: border-box;
   position: relative;
   padding: 5px 20px 5px 8px;
-  font-size: 12px;
-  background-color: #fff;
+  font-size: 20px;
+  color: #ff6666;
+  font-weight: bold;
+  background-color: #000;
   border: 1px solid #ddd;
   border-radius: 8px;
   outline: none;
@@ -271,7 +274,7 @@ h2 {
 
 #form label {
   cursor: pointer;
-  color: #fff;
+  color: #000000;
 }
 
 #help-left {
@@ -330,8 +333,8 @@ button:hover {
 <!--     <form id="form-source">
       <input type="text" id="source" placeholder="URL or Twitter @handle…">
     </form> -->
-    <form id="form">
-	  <input type=button value="Reset" onClick="window.location.reload()" style="font-size:large">
+    <form id="form" style="background-color:#ffffff">
+    <input type=button value="Reset" onClick="window.location.reload()" style="font-size:24px">
       <input type="text" id="keyword" placeholder="Keyword…">
       <label for="reverse" style="font-size: medium" ><input id="reverse" type="checkbox"> Reverse Tree</label>
       <label for="phrase-line" style="font-size: medium"><input id="phrase-line" type="checkbox"> One Phrase Per Line</label>
@@ -354,7 +357,7 @@ button:hover {
   <div class="help-wrapper grey">
     <div id ="lib" class="wrapper">
       <h2>Job Tree</h2>
-	    <p><textarea id="paste" class="text"></textarea>
+      <p><textarea id="paste" class="text"></textarea>
         <input type="button" id="lesen" value="Load Job Descriptions" style="font-size:24px" />
         <!-- <input type="button" id="lesen1" value="Load Resumes!" /> -->
           <script>$(document).ready(function() {

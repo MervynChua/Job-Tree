@@ -4,10 +4,10 @@ Eventbrite - Business Analytics Manager
 
 Job description
 
-Do you dream about matching data with business decisions? Can you look beyond the numbers to find answers and insights to complex questions? Have you leveraged your expertise to help guide others in the past? Does mentoring a talented team sound like something up your alley? If so, let’s talk.
- 
-Eventbrite is hiring a Business Analytics Manager, who will manage a team of professionals dedicated to meeting Eventbrite’s data needs. Requests for data and insights will come from across our organization, and it’s this person’s responsibility to lead our growing team, while ensuring an efficient and accurate response to these requests.
- 
+Do you dream about matching data with business decisions? Can you look beyond the numbers to find answers and insights to complex questions? Have you leveraged your expertise to help guide others in the past? Does mentoring a talented team sound like something up your alley? If so, let's talk.
+
+Eventbrite is hiring a Business Analytics Manager, who will manage a team of professionals dedicated to meeting Eventbrite's data needs. Requests for data and insights will come from across our organization, and it's this person's responsibility to lead our growing team, while ensuring an efficient and accurate response to these requests.
+
 You Will:
 * Mentor and grow a team of amazing business analysts
 * Expertly match business decisions with insights gained from data
@@ -16,7 +16,7 @@ You Will:
 * Collaborate with many teams across Eventbrite at all levels
 * Ensure the correct interpretation of data
 * Constantly seek out ways to be more efficient and productive in the delivery of data throughout the organization
- 
+
 You Bring:
 * 7+ years of experience in business analytics or related field
 * Excellent grasp of SQL & Excel
@@ -35,9 +35,9 @@ Job description
 
 Facebook was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Facebook offers countless ways to make an impact in a fast growing organization.
 
-Facebook’s mission is to make the world more open and connected. The Small & Medium Business team contributes directly to this mission by connecting every small business in the world with their customers on Facebook … and then helping them grow through solutions like Pages and advertising. We succeed when we help our customers grow their business. 
-As a Small & Medium Business Customer Insights Analyst, you will represent the more than one million small businesses that use Facebook and work with product teams to build solutions that meet their needs. You will work closely with the global Small & Medium Business team to understand our customers and prioritize their requests. You will also translate this feedback into actionable recommendations and work with Product, Marketing, and Small & Medium Business Sales and Service to improve the customer experience and increase revenue. 
-Ideal candidates love small businesses, breaking down problems, finding patterns through both qualitative and quantitative insights, sharing findings with cross-functional partners, and working in a fast-paced, dynamic environment. This position is full-time and located in our Menlo Park, California office. 
+Facebook's mission is to make the world more open and connected. The Small & Medium Business team contributes directly to this mission by connecting every small business in the world with their customers on Facebook … and then helping them grow through solutions like Pages and advertising. We succeed when we help our customers grow their business. 
+As a Small & Medium Business Customer Insights Analyst, you will represent the more than one million small businesses that use Facebook and work with product teams to build solutions that meet their needs. You will work closely with the global Small & Medium Business team to understand our customers and prioritize their requests. You will also translate this feedback into actionable recommendations and work with Product, Marketing, and Small & Medium Business Sales and Service to improve the customer experience and increase revenue. 
+Ideal candidates love small businesses, breaking down problems, finding patterns through both qualitative and quantitative insights, sharing findings with cross-functional partners, and working in a fast-paced, dynamic environment. This position is full-time and located in our Menlo Park, California office. 
 
 Responsibilities
 * Advocate for the needs of small & medium sized businesses
@@ -47,7 +47,7 @@ Responsibilities
 * Provide feedback on product strategy, including segmentation, marketing communication, and launch plans
 
 
-Requirements 
+Requirements 
 * BA/BS degree
 * Passion for small businesses
 * Analytical: Excel expert with experience using SQL and statistical analysis to mine data for trends and patterns.
@@ -66,9 +66,9 @@ Great Eastern Life - Analyst, Management Analytics
 
 Job description
 
-Job Purpose 
+Job Purpose 
 
-You will report and perform the analytics to gain meaningful insights of our customers, products and distribution channels. These insights will aid in formulating recommendations to acquire greater sales and improve planning for the company. 
+You will report and perform the analytics to gain meaningful insights of our customers, products and distribution channels. These insights will aid in formulating recommendations to acquire greater sales and improve planning for the company. 
 
 The Job
 * Perform regular reporting and ad-hoc analyses to measure key performance indicators for management of products and distribution channels;
@@ -89,15 +89,15 @@ Our Requirements
 Host Hotels & Resorts - Business Analyst, Global Business Strategy & Analytics
 
 Job description
- 
-SUMMARY OF POSITION: 
-The Global Business Strategy & Analytics team is responsible for a wide variety of functions including Business Intelligence, Information Management and Strategic Analysis.  This individual will work in a collaborative manner to support the timely completion of the department’s varied projects and objectives, primarily as they relate to business analytics strategic analysis.  This individual must be highly skilled at gathering, understanding, and translating business requirements in order to effectively partner with all departments. This is a highly analytical role that requires proactive problem solving and teamwork, as well as a strong working knowledge of the principals of statistics and data integrity.  
- 
+ 
+SUMMARY OF POSITION: 
+The Global Business Strategy & Analytics team is responsible for a wide variety of functions including Business Intelligence, Information Management and Strategic Analysis.  This individual will work in a collaborative manner to support the timely completion of the department's varied projects and objectives, primarily as they relate to business analytics strategic analysis.  This individual must be highly skilled at gathering, understanding, and translating business requirements in order to effectively partner with all departments. This is a highly analytical role that requires proactive problem solving and teamwork, as well as a strong working knowledge of the principals of statistics and data integrity.  
+ 
 KEY RESPONSIBILITIES:
-* Responsible for supporting the department needs across projects such as: data integration & optimization;  enhancing data visualization, predictive, social media and geospatial analytics; and improving the distribution of information
+* Responsible for supporting the department needs across projects such as: data integration & optimization;  enhancing data visualization, predictive, social media and geospatial analytics; and improving the distribution of information
 * Support the department by analyzing and interpreting data; synthesize information from a variety of sources and translate into effective and actionable insights/recommendations
 * Responsible for creating and managing the project requirements document including defining requirements, timelines, and expectations for delivery.
-* Understand, validate and help maintain the integrity of the overall information flow across the department and organization.  This may include hotel operations, market analysis, and economic data.  
+* Understand, validate and help maintain the integrity of the overall information flow across the department and organization.  This may include hotel operations, market analysis, and economic data.  
 * Create reports to be utilized by the various departments.
 * Develop knowledge of the hospitality and travel industry and expand knowledge of relevant tools and technologies in business analytics.
 * Responsible for providing guidance and training to end users.
@@ -105,7 +105,7 @@ Desired Skills and Experience
 * BS/BA or MS in Business Analytics from an accredited university/college
 * Relevant coursework and a solid understanding of the principles of statistics and data quality
 * Candidate must be self-motivated and highly detail-oriented, with a commitment to quality, accuracy, and integrity
-* Strong research, verbal and written communication, analytical  and organizational skills, and the ability to quickly identify and summarize the key issues driving each analysis
+* Strong research, verbal and written communication, analytical  and organizational skills, and the ability to quickly identify and summarize the key issues driving each analysis
 * Requires flexibility; the ability to multi-task and independently manage project
 timelines with a sense of urgency
 * Requires a strong desire to achieve team goals
@@ -115,9 +115,9 @@ Linkedin - Business Analytics (GSO, Manager)
 Job description
 
 Job description
-LinkedIn’s Business Analytics team uses data analysis to drive our monetization efforts. Our team is rapidly reinventing the way that proprietary data analysis can drive sales / marketing efforts and product decisions. We now need a talented and driven manager to accelerate our efforts and be a major part of our data-centric culture. We’re looking for a hands-on professional who is passionate about mining big data, turning data into insights, and making an impact through rigorous analysis, creative storytelling and timely actions. This person will play a significant role on analytics for Global Sales Organization (GSO) and work closely with sales, marketing, engineering and data service team to develop and deliver data-driven insights and tools to ultimately drive the company’s monetization efforts.
+LinkedIn's Business Analytics team uses data analysis to drive our monetization efforts. Our team is rapidly reinventing the way that proprietary data analysis can drive sales / marketing efforts and product decisions. We now need a talented and driven manager to accelerate our efforts and be a major part of our data-centric culture. We're looking for a hands-on professional who is passionate about mining big data, turning data into insights, and making an impact through rigorous analysis, creative storytelling and timely actions. This person will play a significant role on analytics for Global Sales Organization (GSO) and work closely with sales, marketing, engineering and data service team to develop and deliver data-driven insights and tools to ultimately drive the company's monetization efforts.
 
-A successful candidate will be both technically strong and business savvy, with a collaborative and resourceful style that’s contagious. Our team is highly entrepreneurial and business-focused.
+A successful candidate will be both technically strong and business savvy, with a collaborative and resourceful style that's contagious. Our team is highly entrepreneurial and business-focused.
 
 RESPONSIBILITIES
 
@@ -132,7 +132,7 @@ REQUIRED SKILLS & EXPERIENCE
 
 * Overall, a highly driven, results-oriented, creative and nimble problem solver and a willingness to do “whatever it takes” to deliver business value quickly
 * Advanced degree in quantitative fields such as Computer Science, Engineering, Operational Research, Statistics, and Economics. Top-tier performance ratings from current and prior employers
-* 6+ years’ experience in Analytics functions in internet, technology, retail, or financial services industries
+* 6+ years' experience in Analytics functions in internet, technology, retail, or financial services industries
 * Experience in leading business analytics/data engineering teams
 * Excellent oral and written communication skills. Must be able to interact cross-functionally and drive both business and technical discussions
 * Must have proficiency with SQL/relational databases (Teradata, Oracle etc.) and capable of analyzing and manipulating very large dataset
@@ -147,71 +147,71 @@ Microsoft - Business Development & Strategy Manager (Asia)
 
 Job description
 
-Role Purpose 
+Role Purpose 
 The Advertiser & Online Emerging Markets Business Development & Strategy Manager has 3 key areas of focus:
 
-• Strategy. 
-- Supporting the Director of Bus Dev & Strategy and the GM of Asia on development of field execution, partnership and growth strategies across Asia. 
-• Business Development. 
-- Specific focus on Asia area deals to optimize existing or land new sales and commercial partnerships to drive growth for our businesses in Asia; and, 
-• Project Management. 
+• Strategy. 
+- Supporting the Director of Bus Dev & Strategy and the GM of Asia on development of field execution, partnership and growth strategies across Asia. 
+• Business Development. 
+- Specific focus on Asia area deals to optimize existing or land new sales and commercial partnerships to drive growth for our businesses in Asia; and, 
+• Project Management. 
 - Leading the execution of complex projects from strategy to go live, across multiple stakeholders and countries.
 
-To achieve this the successful Business Development & Strategy Manager must have the ability to develop strong partnerships and strategic relationships with internal and external stakeholders. These would include, direct and third party sales teams across the region, colleagues within the regional Emerging Markets teams, product groups and internal and external executive level people. 
+To achieve this the successful Business Development & Strategy Manager must have the ability to develop strong partnerships and strategic relationships with internal and external stakeholders. These would include, direct and third party sales teams across the region, colleagues within the regional Emerging Markets teams, product groups and internal and external executive level people. 
 
 The position reports to the Bellevue based Emerging Markets Business Development & Strategy Director and is a new role that will form part of a small geographically dispersed team. The successful candidate will bring an outstanding track record and demonstrable experience in negotiations, project management (complex multi-stakeholder projects), analytical and strategic thinking, advertising industry knowledge and have experience working in complex matrixed organizations.
 
-This is a unique opportunity for a top performer seeking a high impact, high visibility technology leadership position from which to influence the future course of Microsoft’s portfolio of advertising products. 
+This is a unique opportunity for a top performer seeking a high impact, high visibility technology leadership position from which to influence the future course of Microsoft's portfolio of advertising products. 
 
 Key Accountabilities & Competencies
 Strategy Projects:
 • Help define, understand and operationalize business strategy
-• Drive big bet projects, working with field and BG teams to understand, analyze, and recommend solutions to drive business growth or improve performance 
-• Perform financial analysis and data mining to support the strategy and evaluate impact 
+• Drive big bet projects, working with field and BG teams to understand, analyze, and recommend solutions to drive business growth or improve performance 
+• Perform financial analysis and data mining to support the strategy and evaluate impact 
 • Perform qualitative and quantitative analysis and interviews to define processes and optimize organization to deliver on strategy
 • Support preparation for strategic ROB events and specific topics
 • Coordinate Internal Buy-in with stakeholders and project manage execution as required
 
 Deal Pipeline Development and Management:
 • Identification, evaluation and prioritization of partnering opportunities to drive results against commitments
-• Business assessment of potential opportunities 
+• Business assessment of potential opportunities 
 • Effective leadership and project management skills working on multiple projects and initiatives against tight timelines with multiple stakeholders
 
-Deal Negotiation: 
+Deal Negotiation: 
 • Drive negotiations of complex deals/partnerships to promote platform adoption, expand channel capacity or accelerate product development
 • Synthesize deal concepts into Term Sheets and Contracts
 • Work with all key stakeholders and Legal to ensure that terms meet the desired outcomes and/or requirements
 • Identify, document and socialize optimal deal structures, financial models, and best practices
 
-Organizational Communication: 
-• Be effective in communicating to, and dealing at, all levels of the organization (including CVP and division President) and partner organizations (including CEO’s)
-• Enhance existing and build new, strong relationships with key leaders and stakeholders (A&O, BG’s, Finance, LCA) to be seen as a trusted business advisor 
+Organizational Communication: 
+• Be effective in communicating to, and dealing at, all levels of the organization (including CVP and division President) and partner organizations (including CEO's)
+• Enhance existing and build new, strong relationships with key leaders and stakeholders (A&O, BG's, Finance, LCA) to be seen as a trusted business advisor 
 • Have a point of view, have a voice, be a strategic thinker
 
 Influencing for Change & Leadership
-• Demonstrate openness and acceptance to others’ ideas.
+• Demonstrate openness and acceptance to others' ideas.
 • Adapts style to most effectively engage and influence the target audience with clarity and persuasiveness.
-• Understands unstated or less obvious reasons for others’ concerns, behavior, and perspectives. 
+• Understands unstated or less obvious reasons for others' concerns, behavior, and perspectives. 
 • Leads others in scoping problems by identifying key issues, inputs, stakeholders, and outcomes.
 • Applies a broad functional knowledge base to solve problems.
-• Makes important business decisions with confidence and persuades others. 
+• Makes important business decisions with confidence and persuades others. 
 
-Key Success Criteria 
+Key Success Criteria 
 Knowledge, Skills and Experience
-Essential Experience 
-• 7-10+ years of experience in strategy and / or strategic business development with at least 3 years in media and advertising industries. 
-• Be familiar with MSFT’s and Industry underlying technology and data platforms.
+Essential Experience 
+• 7-10+ years of experience in strategy and / or strategic business development with at least 3 years in media and advertising industries. 
+• Be familiar with MSFT's and Industry underlying technology and data platforms.
 • Experienced in multi-platform/screen advertising solutions (Mobile-Tablet/PC/TV/etc.)
 • Demonstrated track record of exceeding established goals on a consistent basis.
 • Organization agility/savvy and ability to work across organizational boundaries to build alignment at multiple levels of management and drive closure on issues and sales engagements.
-• Proven experience successfully operating in global and highly matrix environments with multiple stakeholders / functional boundaries 
+• Proven experience successfully operating in global and highly matrix environments with multiple stakeholders / functional boundaries 
 • Strong financial modeling skills
 
 Personal Attributes
-• Ambitious, independent, self-starter with the ability to effectively manage multiple, complex deals simultaneously 
-• Excellent analytical and problem solving skills 
+• Ambitious, independent, self-starter with the ability to effectively manage multiple, complex deals simultaneously 
+• Excellent analytical and problem solving skills 
 • Ability to drive results across functional areas, including program management, legal, engineering, marketing, business development
-• Strategic thinking, analysis skills, and the ability to achieve objectives and deliver results on multiple projects 
+• Strategic thinking, analysis skills, and the ability to achieve objectives and deliver results on multiple projects 
 • Demonstrated success with working on large, complex projects, deals and/or partnerships
 • Effective leadership and project management skills working on multiple projects and initiatives against tight timelines
 • Strong team player with solid cross group collaboration skills in relationship building, issue resolution and communication
@@ -228,17 +228,17 @@ Qualifications
 Special Requirements/Additional Information e.g. Language skills
 Frequent travel. Fluent command of spoken and written English required.
 
-SAS - Business Consultant (Operational Research / Optimization) 
+SAS - Business Consultant (Operational Research / Optimization) 
 
 Job description
 
-Position Purpose: 
- 
-We are seeking motivated professionals with deep experience in the Operational research / Optimization analytics for the role of Business Consultant (Operational Research / Optimization). This role is pivotal in supporting the sales team in qualifying business opportunities, assessing business requirements, translating business requirements into optimal solutions and providing required technical and domain expertise to ensure successful closure of business opportunities.
- 
+Position Purpose: 
+ 
+We are seeking motivated professionals with deep experience in the Operational research / Optimization analytics for the role of Business Consultant (Operational Research / Optimization). This role is pivotal in supporting the sales team in qualifying business opportunities, assessing business requirements, translating business requirements into optimal solutions and providing required technical and domain expertise to ensure successful closure of business opportunities.
+ 
 Job Description:
 As an Business Consultant (Operational Research / Optimization), he or she will work closely with sales team in sales engagements by owning and driving the pre-sales activities including (but not limited to) engaging the customer to qualify the opportunity, develop and deliver technical presentations and product demonstrations, develop proposals (RFP/RFI), formulate optimal solution architecture, performing proof-of-concept/proof-of-values and prototyping using SAS technologies based on specific customer requirements discuss implementation approaches, working closely with alliance partners, etc.
- 
+ 
 Job Requirements:
 * Keen interest towards pre-sales role, responsibility and challenges that comes with it. He or she should be a well-organized, confident, self-motivated, team player, resourceful, responsive, dependable, creative and innovative professional.
 * Possess tertiary degree/major in Business Analytics/Statistics/ Mathematics/Operations Research/Information System/Computing.
@@ -286,7 +286,7 @@ Your main responsibilities are:
 Requirements
 Basic Qualifications:
 
-?  Bachelor’s degree and approximately 10 years of related work experience;
+?  Bachelor's degree and approximately 10 years of related work experience;
 
 ?  A minimum of 8 years programming, application or reporting development experience (SAS, SQL, Business Objects, MS SQL Server, Teradata, ACL);
 
@@ -317,34 +317,34 @@ Preferred Qualifications:
 
 Description:
 
-Business Analyst 
-Location: Singapore 
-Functional Unit: Cisco Consulting Services 
+Business Analyst 
+Location: Singapore 
+Functional Unit: Cisco Consulting Services 
 
-Job Description: 
-The objective of this position is to effectively support and deliver business development and client project execution efforts of Cisco Consulting Services (CCS). CCS is a global professional services organization within Cisco that offers business strategy and technology consulting across all major industries with the aspiration of helping customer achieve business outcomes from technology investments in the Internet of Everything. 
-Successful candidate will have a proven track record of working on high-impact consulting or technology projects in one or more industries, proficiency in problem solving, communication and developing client relationships and a keen interest in the IT industry, consumer technology, digital and emerging technology trends. 
-For consultants, this is a unique opportunity to work at the intersection of business strategy and technology enabled execution in an era of digital disruption. It is a rare chance to join a growing, disruptive consulting practice at the ground floor and help shape it’s future while enjoying large responsibilities early in their career. 
+Job Description: 
+The objective of this position is to effectively support and deliver business development and client project execution efforts of Cisco Consulting Services (CCS). CCS is a global professional services organization within Cisco that offers business strategy and technology consulting across all major industries with the aspiration of helping customer achieve business outcomes from technology investments in the Internet of Everything. 
+Successful candidate will have a proven track record of working on high-impact consulting or technology projects in one or more industries, proficiency in problem solving, communication and developing client relationships and a keen interest in the IT industry, consumer technology, digital and emerging technology trends. 
+For consultants, this is a unique opportunity to work at the intersection of business strategy and technology enabled execution in an era of digital disruption. It is a rare chance to join a growing, disruptive consulting practice at the ground floor and help shape it's future while enjoying large responsibilities early in their career. 
 
-Primary Responsibilities: 
-• Accountable for successful participation and execution of consulting projects 
-• Through projects, assist customers with strategic direction, solution selection, implementation and roll-out of solutions 
-• Research and develop industry and technology-focused thought leadership aligned to CCS’ consulting practices, working with our global teams 
-• Collaborate with the CCS team, Cisco Sales teams to sell and deliver consulting offerings to Cisco's top customers 
-• Drive close collaboration, consistency and synergy with the wider CCS team and internal Cisco collaborators, such as Sales teams 
+Primary Responsibilities: 
+• Accountable for successful participation and execution of consulting projects 
+• Through projects, assist customers with strategic direction, solution selection, implementation and roll-out of solutions 
+• Research and develop industry and technology-focused thought leadership aligned to CCS' consulting practices, working with our global teams 
+• Collaborate with the CCS team, Cisco Sales teams to sell and deliver consulting offerings to Cisco's top customers 
+• Drive close collaboration, consistency and synergy with the wider CCS team and internal Cisco collaborators, such as Sales teams 
 
-Abilities & Key competencies required: 
-• Consulting or Technology competency and experience from top tier System Integrators, IT consulting, or other digital technology-related professional services field 
-• Innovative thinker – Strong use and passion for technology, understands design thinking 
-• Analytical thinker – Strong problem solving capabilities and follows a structured, analytical approach; Enterprise or Solution Architecture skills are a plus 
-• Leadership – Effectively persuade others (customers, peers, senior management, etc.) using data-based knowledge, emotional intelligence, confidence, and organizational insight. 
-Also important are the following attributes: 
-• Business Judgment – Analyzing Trends in Data/Awareness of Customer Business Trends/Awareness of End-User Application Trends/Executes against strategy to deliver desired business results 
-• Communication skills – Ability to consult with customers/Presents with Impact/Accurately anticipates the reactions of others/Listens actively and identifies the motives or concerns of others/Reads verbal and non-verbal cues to understand relationships and situations 
-• Professional Effectiveness – Analyzing and Problem Solving/Focusing on Continuous Improvement/Leveraging Cisco Information, Tools and Data Resources/Reusing Knowledge and Avoiding Redundant Effort/Following up and following through 
-• Learning Agility – Demonstrates capacity and desire to learn quickly/Constantly improves and changes/Manages change and ambiguity effectively/Is very flexible, adaptable, and resourceful 
+Abilities & Key competencies required: 
+• Consulting or Technology competency and experience from top tier System Integrators, IT consulting, or other digital technology-related professional services field 
+• Innovative thinker – Strong use and passion for technology, understands design thinking 
+• Analytical thinker – Strong problem solving capabilities and follows a structured, analytical approach; Enterprise or Solution Architecture skills are a plus 
+• Leadership – Effectively persuade others (customers, peers, senior management, etc.) using data-based knowledge, emotional intelligence, confidence, and organizational insight. 
+Also important are the following attributes: 
+• Business Judgment – Analyzing Trends in Data/Awareness of Customer Business Trends/Awareness of End-User Application Trends/Executes against strategy to deliver desired business results 
+• Communication skills – Ability to consult with customers/Presents with Impact/Accurately anticipates the reactions of others/Listens actively and identifies the motives or concerns of others/Reads verbal and non-verbal cues to understand relationships and situations 
+• Professional Effectiveness – Analyzing and Problem Solving/Focusing on Continuous Improvement/Leveraging Cisco Information, Tools and Data Resources/Reusing Knowledge and Avoiding Redundant Effort/Following up and following through 
+• Learning Agility – Demonstrates capacity and desire to learn quickly/Constantly improves and changes/Manages change and ambiguity effectively/Is very flexible, adaptable, and resourceful 
 
-Other Requirements/ Experience: 
-• 4-6 years of experience in Consulting or Technology competency and experience from top tier System Integrators, IT consulting, or other digital technology-related professional services field 
+Other Requirements/ Experience: 
+• 4-6 years of experience in Consulting or Technology competency and experience from top tier System Integrators, IT consulting, or other digital technology-related professional services field 
 • Educational Background: Undergraduate degree required, a graduate degree preferred
 
